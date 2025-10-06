@@ -1,13 +1,6 @@
 # Facebook Misinformation Detection Using Intelligent Systems
 
-This project applies intelligent forensic techniques to analyze and detect misinformation patterns on Facebook.  
-It simulates user-generated post data, applies Natural Language Processing (NLP) and anomaly detection models, and visualizes the spread of misleading information based on engagement and sentiment trends.
-
----
-
-## 🧠 Project Overview
-This project is part of **Activity 10: Advanced Report Generation and Final Project Kickoff** for the course **Intelligent Systems in Forensics**.  
-It demonstrates the complete digital forensic workflow — from data generation to intelligent analysis — using simulated Facebook activity data.
+This project applies intelligent forensic techniques to analyze and detect misinformation patterns on Facebook. It simulates user-generated post data, applies Natural Language Processing (NLP) and anomaly detection models, and visualizes the spread of misleading information based on engagement and sentiment trends.
 
 ---
 

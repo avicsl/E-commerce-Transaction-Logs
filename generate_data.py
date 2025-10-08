@@ -1,9 +1,3 @@
-"""
-Activity 11: Final Project - Generate Facebook Post Data
-Student: Alvhin C. Solo
-Course: Intelligent Systems in Forensics
-"""
-
 import pandas as pd
 import random
 from datetime import datetime, timedelta
@@ -166,3 +160,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

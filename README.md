@@ -21,7 +21,7 @@ This project applies intelligent forensic techniques to analyze and detect misin
 | `analyze_data.py` | Performs NLP, anomaly detection, and visualization |
 | `final_project_raw_data.csv` | Simulated Facebook post dataset |
 | `final_project_cleaned_data.csv` | Preprocessed dataset |
-| `final_project_misinformation.csv` | Analysis results with flagged misinformation posts |
+| `final_project_anomalies.csv` | Analysis results with flagged misinformation posts |
 | `final_project_chart.png` | Visualization showing misinformation trends |
 | `final_project_report.md` | Comprehensive forensic report of the investigation |
 

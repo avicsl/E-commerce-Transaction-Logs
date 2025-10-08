@@ -1,9 +1,3 @@
-"""
-Activity 12: Final Project - Misinformation Detection and Visualization
-Student: Alvhin C. Solo
-Course: Intelligent Systems in Forensics
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -181,4 +175,5 @@ def main():
     print(f"✅ Visualizations saved to {chart_file}")
 
 if __name__ == "__main__":
+
     main()

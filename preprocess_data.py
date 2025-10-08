@@ -1,9 +1,3 @@
-"""
-Activity 11: Final Project - Preprocess Facebook Data
-Student: Alvhin C. Solo
-Course: Intelligent Systems in Forensics
-"""
-
 import pandas as pd
 import re
 
@@ -66,3 +60,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

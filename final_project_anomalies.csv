@@ -1,0 +1,301 @@
+post_id,user_id,timestamp,post_content,num_shares,num_reactions,source_link,sentiment_score,suspicious_keyword_count,engagement_rate,is_anomaly,is_misinformation,entities
+POST_0291,user_030,2025-09-09 01:27:13,Doctors HATE this simple method! Click to learn more!,793,368,beforetheydelete.com,-0.73,1,1161,False,True,N/A
+POST_0077,user_136,2025-09-20 04:33:42,Just planted some vegetables in my garden.,21,50,scientificamerican.com,0.35,0,71,False,False,N/A
+POST_0040,user_054,2025-09-29 22:28:13,Beautiful sunset at the beach today. Nature is incredible. #blessed #grateful,22,76,nature.com,0.88,0,98,False,False,N/A
+POST_0272,user_084,2025-09-09 11:03:57,Hidden message found in the new company logo — proof of global control!,561,702,UNKNOWN,-0.51,1,1263,True,True,N/A
+POST_0047,user_012,2025-10-01 03:46:40,So grateful for the support of my friends and family.,34,92,nasa.gov,0.69,0,126,False,False,N/A
+POST_0147,user_059,2025-09-25 08:39:49,Check out this recipe I tried today. It turned out delicious!,22,14,UNKNOWN,0.69,0,36,False,False,N/A
+POST_0146,user_036,2025-10-02 23:04:27,Finished my first marathon today! Feeling accomplished. #blessed #grateful,7,5,UNKNOWN,0.44,0,12,False,False,N/A
+POST_0015,user_130,2025-10-07 18:41:47,Amazing day volunteering at the local shelter. #blessed #grateful,19,86,UNKNOWN,0.26,0,105,False,False,N/A
+POST_0154,user_081,2025-09-13 04:50:37,Watching the stars tonight — feeling peaceful and blessed.,28,85,UNKNOWN,0.32,0,113,False,False,N/A
+POST_0006,user_059,2025-10-02 23:52:01,Learning to play the guitar — progress feels great!,14,17,UNKNOWN,0.46,0,31,False,False,N/A
+POST_0238,user_131,2025-09-22 16:15:15,So grateful for the support of my friends and family.,32,58,UNKNOWN,0.15,0,90,False,False,N/A
+POST_0029,user_081,2025-09-09 16:23:37,Supporting local businesses is always a good idea.,32,72,UNKNOWN,0.87,0,104,False,False,N/A
+POST_0082,user_017,2025-09-21 05:50:43,Proud of my little sister for graduating with honors!,40,92,UNKNOWN,0.22,0,132,False,False,N/A
+POST_0205,user_041,2025-10-05 01:45:43,Just adopted a cute puppy. Meet Max! #blessed #grateful,46,45,UNKNOWN,0.23,0,91,False,False,N/A
+POST_0296,user_077,2025-10-08 10:23:12,BANNED BY MAINSTREAM MEDIA! THE TRUTH THEY DON'T WANT YOU TO SEE!,788,337,miracle-cures.net,-0.69,1,1125,False,True,N/A
+POST_0010,user_081,2025-09-15 11:17:32,So grateful for the support of my friends and family. #blessed #grateful,41,63,UNKNOWN,0.21,0,104,False,False,N/A
+POST_0090,user_127,2025-09-22 17:24:09,Loving the new coffee shop downtown. Great atmosphere.,27,99,UNKNOWN,0.3,0,126,False,False,N/A
+POST_0070,user_031,2025-10-04 09:36:09,Weekend hike was breathtaking. Can’t wait to go back!,22,73,UNKNOWN,0.4,0,95,False,False,N/A
+POST_0091,user_148,2025-09-26 15:34:50,Congratulations to our team for winning the championship!,17,78,UNKNOWN,0.71,0,95,False,False,N/A
+POST_0273,user_150,2025-09-30 02:51:56,SHOCKING evidence of alien cover-up! Must see!,733,502,beforetheydelete.com,-0.85,2,1235,True,True,N/A
+POST_0080,user_033,2025-09-16 15:49:42,Just finished reading an amazing book! Highly recommend it. #blessed #grateful,18,94,bloomberg.com,0.79,0,112,False,False,N/A
+POST_0151,user_030,2025-09-25 06:59:04,Excited to announce my new job at ABC Company!,49,49,UNKNOWN,0.87,0,98,False,False,N/A
+POST_0046,user_112,2025-09-20 14:36:27,Beautiful sunset at the beach today. Nature is incredible.,27,82,bbc.com,0.41,0,109,False,False,N/A
+POST_0191,user_126,2025-09-14 17:55:01,Finished my first marathon today! Feeling accomplished.,4,62,UNKNOWN,0.67,0,66,False,False,N/A
+POST_0184,user_022,2025-10-02 03:51:34,Amazing day volunteering at the local shelter.,38,28,UNKNOWN,0.36,0,66,False,False,N/A
+POST_0119,user_102,2025-09-08 23:20:14,Just planted some vegetables in my garden.,29,52,bloomberg.com,0.31,0,81,False,False,N/A
+POST_0159,user_094,2025-09-20 00:10:33,Amazing day volunteering at the local shelter.,49,48,nytimes.com,0.73,0,97,False,False,N/A
+POST_0201,user_128,2025-10-07 11:20:25,Watching the stars tonight — feeling peaceful and blessed.,41,43,UNKNOWN,0.74,0,84,False,False,N/A
+POST_0115,user_036,2025-09-28 18:43:47,Just finished a coding project I’ve been working on for weeks!,41,10,UNKNOWN,0.45,0,51,False,False,N/A
+POST_0023,user_025,2025-09-30 04:08:34,Celebrating our anniversary today. Love you honey!,26,64,nytimes.com,0.64,0,90,False,False,N/A
+POST_0170,user_073,2025-09-10 20:03:35,Amazing day volunteering at the local shelter. #blessed #grateful,32,23,bbc.com,0.86,0,55,False,False,N/A
+POST_0270,user_100,2025-09-30 08:07:31,THIS ONE WEIRD TRICK WILL SOLVE ALL YOUR PROBLEMS INSTANTLY!,873,343,beforetheydelete.com,-0.39,0,1216,True,True,N/A
+POST_0246,user_060,2025-09-25 21:35:02,Beautiful sunset at the beach today. Nature is incredible.,49,12,UNKNOWN,0.89,0,61,False,False,N/A
+POST_0169,user_036,2025-10-05 22:49:48,Family gathering this weekend was so much fun. #blessed #grateful,30,52,UNKNOWN,0.18,0,82,False,False,N/A
+POST_0134,user_142,2025-10-01 21:13:35,New blog post is up! Sharing my travel experiences from Japan. #blessed #grateful,14,57,UNKNOWN,0.46,0,71,False,False,N/A
+POST_0121,user_017,2025-09-29 05:44:51,Watching the stars tonight — feeling peaceful and blessed.,19,88,UNKNOWN,0.21,0,107,False,False,N/A
+POST_0190,user_133,2025-09-21 07:53:23,Supporting local businesses is always a good idea.,49,38,national-geographic.com,0.9,0,87,False,False,N/A
+POST_0054,user_148,2025-09-15 13:30:31,Congratulations to our team for winning the championship!,31,56,UNKNOWN,0.62,0,87,False,False,N/A
+POST_0042,user_106,2025-10-04 12:41:54,Great concert last night. The band was fantastic. #blessed #grateful,15,39,UNKNOWN,0.66,0,54,False,False,N/A
+POST_0232,user_078,2025-09-27 14:22:07,Loving the new coffee shop downtown. Great atmosphere. #blessed #grateful,16,88,UNKNOWN,0.29,0,104,False,False,N/A
+POST_0129,user_005,2025-09-13 22:49:15,Just adopted a cute puppy. Meet Max!,47,58,UNKNOWN,0.7,0,105,False,False,N/A
+POST_0187,user_041,2025-10-08 14:56:01,Just planted some vegetables in my garden.,38,91,nytimes.com,0.2,0,129,False,False,N/A
+POST_0229,user_029,2025-09-18 20:32:36,Morning workout complete. Ready to start the day!,41,37,nytimes.com,0.69,0,78,False,False,N/A
+POST_0089,user_146,2025-10-08 00:14:14,Finished my first marathon today! Feeling accomplished.,29,93,UNKNOWN,0.42,0,122,False,False,N/A
+POST_0044,user_050,2025-09-21 01:04:02,Just adopted a cute puppy. Meet Max!,4,40,UNKNOWN,0.51,0,44,False,False,N/A
+POST_0248,user_106,2025-09-17 22:49:42,Weekend hike was breathtaking. Can’t wait to go back!,37,99,bloomberg.com,0.64,0,136,False,False,N/A
+POST_0124,user_072,2025-09-10 13:09:20,Celebrating our anniversary today. Love you honey! #blessed #grateful,28,61,un.org,0.39,0,89,False,False,N/A
+POST_0075,user_071,2025-09-25 15:19:19,Loving the new coffee shop downtown. Great atmosphere.,5,35,theguardian.com,0.54,0,40,False,False,N/A
+POST_0074,user_098,2025-09-18 15:18:01,So grateful for the support of my friends and family.,20,28,UNKNOWN,0.38,0,48,False,False,N/A
+POST_0062,user_125,2025-09-15 23:13:38,Watching the stars tonight — feeling peaceful and blessed. #blessed #grateful,1,54,UNKNOWN,0.64,0,55,False,False,N/A
+POST_0294,user_138,2025-09-14 02:06:19,YOU WON'T BELIEVE WHAT CELEBRITIES ARE SECRETLY DOING! CLICK NOW!,568,316,UNKNOWN,-0.3,2,884,True,True,N/A
+POST_0021,user_019,2025-10-01 10:49:21,So grateful for the support of my friends and family.,4,9,bbc.com,0.51,0,13,False,False,N/A
+POST_0176,user_037,2025-09-18 03:46:46,So grateful for the support of my friends and family.,22,35,UNKNOWN,0.25,0,57,False,False,N/A
+POST_0143,user_146,2025-09-27 17:42:10,Supporting local businesses is always a good idea.,9,25,nytimes.com,0.64,0,34,False,False,N/A
+POST_0130,user_093,2025-09-25 08:52:35,Proud of my little sister for graduating with honors!,32,33,nytimes.com,0.68,0,65,False,False,N/A
+POST_0239,user_079,2025-10-01 15:11:23,Morning workout complete. Ready to start the day!,0,100,UNKNOWN,0.16,0,100,False,False,N/A
+POST_0207,user_127,2025-09-28 11:29:37,Beautiful sunset at the beach today. Nature is incredible.,18,73,UNKNOWN,0.19,0,91,False,False,N/A
+POST_0152,user_061,2025-09-11 19:02:19,New blog post is up! Sharing my travel experiences from Japan. #blessed #grateful,11,82,UNKNOWN,0.71,0,93,False,False,N/A
+POST_0063,user_120,2025-10-07 19:25:41,Movie night with friends. Perfect way to end the week. #blessed #grateful,1,55,UNKNOWN,0.63,0,56,False,False,N/A
+POST_0086,user_001,2025-09-22 05:30:45,Tried a new restaurant today and the food was incredible!,30,42,UNKNOWN,0.33,0,72,False,False,N/A
+POST_0008,user_042,2025-09-23 03:04:06,Tried a new restaurant today and the food was incredible! #blessed #grateful,40,93,UNKNOWN,0.65,0,133,False,False,N/A
+POST_0255,user_062,2025-09-26 01:35:25,Family gathering this weekend was so much fun.,24,64,UNKNOWN,0.39,0,88,False,False,N/A
+POST_0267,user_085,2025-09-26 18:43:40,THIS NATURAL CURE DESTROYS CANCER! BIG PHARMA DOESN'T WANT YOU TO KNOW!,143,435,UNKNOWN,-0.29,1,578,True,True,N/A
+POST_0250,user_048,2025-10-03 08:16:22,Check out this recipe I tried today. It turned out delicious!,14,43,wikipedia.org,0.74,0,57,False,False,N/A
+POST_0007,user_091,2025-09-15 12:03:51,Just planted some vegetables in my garden.,43,87,UNKNOWN,0.61,0,130,False,False,N/A
+POST_0233,user_079,2025-09-14 03:29:39,Weekend hike was breathtaking. Can’t wait to go back!,45,44,bloomberg.com,0.83,0,89,False,False,N/A
+POST_0051,user_083,2025-09-23 05:14:50,So grateful for the support of my friends and family.,13,70,UNKNOWN,0.82,0,83,False,False,N/A
+POST_0261,user_060,2025-09-11 12:55:07,BREAKING! Scientists discover cure for all diseases! Government hiding it from you!,323,717,fakenews-source.net,-0.47,3,1040,True,True,N/A
+POST_0066,user_018,2025-10-03 10:48:55,Just planted some vegetables in my garden.,1,36,UNKNOWN,0.12,0,37,False,False,N/A
+POST_0067,user_122,2025-09-29 18:22:20,Check out this recipe I tried today. It turned out delicious!,29,94,UNKNOWN,0.4,0,123,False,False,N/A
+POST_0027,user_016,2025-09-14 02:46:31,Family gathering this weekend was so much fun. #blessed #grateful,16,63,UNKNOWN,0.66,0,79,False,False,N/A
+POST_0164,user_125,2025-09-14 21:54:16,Family gathering this weekend was so much fun.,4,42,bbc.com,0.51,0,46,False,False,N/A
+POST_0004,user_087,2025-09-11 17:10:13,Family gathering this weekend was so much fun. #blessed #grateful,22,49,who.int,0.13,0,71,False,False,N/A
+POST_0223,user_028,2025-09-28 14:23:22,Learning to play the guitar — progress feels great!,15,11,cnn.com,0.28,0,26,False,False,N/A
+POST_0157,user_083,2025-09-28 06:18:16,So grateful for the support of my friends and family.,3,62,UNKNOWN,0.82,0,65,False,False,N/A
+POST_0098,user_031,2025-09-28 19:18:06,Happy birthday to my best friend! Hope you have a wonderful day.,45,42,UNKNOWN,0.32,0,87,False,False,N/A
+POST_0011,user_068,2025-10-02 09:14:04,Supporting local businesses is always a good idea.,37,56,UNKNOWN,0.9,0,93,False,False,N/A
+POST_0036,user_073,2025-09-27 21:31:28,Tried a new restaurant today and the food was incredible!,13,92,scientificamerican.com,0.5,0,105,False,False,N/A
+POST_0167,user_115,2025-09-16 08:01:26,Just finished a coding project I’ve been working on for weeks! #blessed #grateful,50,65,national-geographic.com,0.39,0,115,False,False,N/A
+POST_0131,user_118,2025-09-28 14:49:37,Weekend hike was breathtaking. Can’t wait to go back!,25,59,theguardian.com,0.67,0,84,False,False,N/A
+POST_0120,user_096,2025-09-12 12:00:37,Movie night with friends. Perfect way to end the week. #blessed #grateful,1,84,cnn.com,0.36,0,85,False,False,N/A
+POST_0142,user_024,2025-10-02 06:59:31,New blog post is up! Sharing my travel experiences from Japan. #blessed #grateful,26,63,UNKNOWN,0.4,0,89,False,False,N/A
+POST_0099,user_063,2025-09-23 07:55:31,Proud of my little sister for graduating with honors! #blessed #grateful,12,81,UNKNOWN,0.8,0,93,False,False,N/A
+POST_0224,user_106,2025-09-19 13:16:13,Just adopted a cute puppy. Meet Max!,43,22,UNKNOWN,0.54,0,65,False,False,N/A
+POST_0076,user_126,2025-09-22 14:51:25,Just adopted a cute puppy. Meet Max!,14,56,scientificamerican.com,0.63,0,70,False,False,N/A
+POST_0242,user_090,2025-09-11 20:20:32,Tried a new restaurant today and the food was incredible!,33,21,national-geographic.com,0.77,0,54,False,False,N/A
+POST_0111,user_077,2025-09-29 04:30:23,Just planted some vegetables in my garden. #blessed #grateful,29,43,UNKNOWN,0.41,0,72,False,False,N/A
+POST_0173,user_036,2025-10-03 13:16:35,Proud of my little sister for graduating with honors!,39,5,nytimes.com,0.3,0,44,False,False,N/A
+POST_0175,user_118,2025-09-10 18:40:04,New blog post is up! Sharing my travel experiences from Japan. #blessed #grateful,31,81,UNKNOWN,0.61,0,112,False,False,N/A
+POST_0283,user_119,2025-10-09 12:59:35,BREAKING! SCIENTISTS DISCOVER CURE FOR ALL DISEASES! GOVERNMENT HIDING IT FROM YOU!,916,498,clickbait-central.com,-0.33,3,1414,True,True,N/A
+POST_0136,user_025,2025-10-02 14:09:58,Congratulations to our team for winning the championship!,8,76,UNKNOWN,0.87,0,84,False,False,N/A
+POST_0189,user_036,2025-09-25 02:11:27,Just finished a coding project I’ve been working on for weeks!,41,40,UNKNOWN,0.19,0,81,False,False,N/A
+POST_0103,user_098,2025-09-21 12:36:59,Learning to play the guitar — progress feels great! #blessed #grateful,41,24,UNKNOWN,0.13,0,65,False,False,N/A
+POST_0281,user_046,2025-10-09 03:06:25,Amazing discovery that pharmaceutical companies are hiding!,852,702,fakehealthtips.org,-0.73,0,1554,True,True,N/A
+POST_0140,user_007,2025-09-28 12:39:51,Weekend hike was breathtaking. Can’t wait to go back!,17,8,UNKNOWN,0.66,0,25,False,False,N/A
+POST_0081,user_004,2025-09-27 00:16:37,Proud of my little sister for graduating with honors!,28,48,UNKNOWN,0.14,0,76,False,False,N/A
+POST_0028,user_143,2025-09-30 13:17:16,Supporting local businesses is always a good idea. #blessed #grateful,12,42,UNKNOWN,0.15,0,54,False,False,N/A
+POST_0155,user_019,2025-09-18 05:14:09,Beautiful sunset at the beach today. Nature is incredible.,3,52,bbc.com,0.62,0,55,False,False,N/A
+POST_0274,user_040,2025-10-02 03:06:30,BREAKING NEWS: Celebrity died! (actually fake) Share now!,209,293,UNKNOWN,-0.68,1,502,True,True,N/A
+POST_0057,user_141,2025-09-22 20:34:02,Celebrating our anniversary today. Love you honey! #blessed #grateful,30,62,UNKNOWN,0.3,0,92,False,False,N/A
+POST_0289,user_007,2025-09-23 18:04:33,NASA admits the moon landing was faked all along!,187,318,beforetheydelete.com,-0.8,0,505,True,True,N/A
+POST_0245,user_018,2025-09-12 09:48:35,Just finished reading an amazing book! Highly recommend it.,38,91,nytimes.com,0.3,0,129,False,False,N/A
+POST_0206,user_079,2025-09-23 14:51:32,Amazing day volunteering at the local shelter.,32,63,national-geographic.com,0.57,0,95,False,False,N/A
+POST_0002,user_024,2025-09-14 22:18:45,Celebrating our anniversary today. Love you honey!,1,76,UNKNOWN,0.62,0,77,False,False,N/A
+POST_0181,user_052,2025-10-06 16:07:06,Family gathering this weekend was so much fun.,19,70,UNKNOWN,0.75,0,89,False,False,N/A
+POST_0068,user_030,2025-10-02 20:05:13,Watching the stars tonight — feeling peaceful and blessed.,37,8,forbes.com,0.64,0,45,False,False,N/A
+POST_0009,user_059,2025-10-04 16:37:27,Just finished a coding project I’ve been working on for weeks! #blessed #grateful,25,39,UNKNOWN,0.83,0,64,True,True,N/A
+POST_0128,user_139,2025-09-16 19:53:49,Check out this recipe I tried today. It turned out delicious! #blessed #grateful,1,21,UNKNOWN,0.73,0,22,True,True,N/A
+POST_0237,user_138,2025-09-12 20:07:01,Amazing day volunteering at the local shelter.,33,61,UNKNOWN,0.26,0,94,False,False,N/A
+POST_0182,user_049,2025-09-18 02:41:56,Proud of my little sister for graduating with honors!,3,88,UNKNOWN,0.2,0,91,False,False,N/A
+POST_0227,user_102,2025-10-04 05:58:06,Beautiful sunset at the beach today. Nature is incredible. #blessed #grateful,47,42,nytimes.com,0.34,0,89,False,False,N/A
+POST_0217,user_016,2025-09-30 19:19:20,Watching the stars tonight — feeling peaceful and blessed. #blessed #grateful,35,46,theguardian.com,0.52,0,81,False,False,N/A
+POST_0105,user_040,2025-09-11 06:36:23,Supporting local businesses is always a good idea.,21,84,bloomberg.com,0.16,0,105,False,False,N/A
+POST_0100,user_107,2025-09-19 07:03:59,Congratulations to our team for winning the championship!,0,41,un.org,0.57,0,41,False,False,N/A
+POST_0049,user_105,2025-09-19 03:30:25,Finished my first marathon today! Feeling accomplished.,35,21,UNKNOWN,0.63,0,56,False,False,N/A
+POST_0018,user_137,2025-10-02 18:54:49,Congratulations to our team for winning the championship! #blessed #grateful,30,75,UNKNOWN,0.52,0,105,False,False,N/A
+POST_0039,user_140,2025-09-10 02:23:42,Learning to play the guitar — progress feels great! #blessed #grateful,9,60,UNKNOWN,0.35,0,69,False,False,N/A
+POST_0165,user_135,2025-09-10 12:08:03,Tried a new restaurant today and the food was incredible! #blessed #grateful,49,84,UNKNOWN,0.4,0,133,False,False,N/A
+POST_0048,user_018,2025-10-09 12:44:28,Family gathering this weekend was so much fun.,39,45,bbc.com,0.68,0,84,False,False,N/A
+POST_0158,user_022,2025-09-25 10:57:09,Great concert last night. The band was fantastic. #blessed #grateful,15,95,UNKNOWN,0.45,0,110,False,False,N/A
+POST_0271,user_089,2025-09-09 18:13:21,NASA ADMITS THE MOON LANDING WAS FAKED ALL ALONG!,958,277,fakehealthtips.org,-0.47,0,1235,True,True,N/A
+POST_0258,user_098,2025-09-26 22:17:42,Amazing discovery that pharmaceutical companies are hiding!,770,545,UNKNOWN,-0.32,0,1315,True,True,N/A
+POST_0210,user_087,2025-09-26 02:34:16,Happy birthday to my best friend! Hope you have a wonderful day.,12,82,UNKNOWN,0.5,0,94,False,False,N/A
+POST_0094,user_117,2025-09-11 01:02:27,Just finished a coding project I’ve been working on for weeks!,7,56,un.org,0.89,0,63,False,False,N/A
+POST_0172,user_008,2025-09-18 18:39:52,Congratulations to our team for winning the championship!,41,47,wikipedia.org,0.13,0,88,False,False,N/A
+POST_0050,user_045,2025-09-28 09:05:32,Movie night with friends. Perfect way to end the week.,35,5,UNKNOWN,0.27,0,40,False,False,N/A
+POST_0030,user_018,2025-09-27 17:30:02,Congratulations to our team for winning the championship! #blessed #grateful,15,56,UNKNOWN,0.81,0,71,False,False,N/A
+POST_0019,user_055,2025-10-08 08:34:53,Watching the stars tonight — feeling peaceful and blessed.,44,30,nature.com,0.9,0,74,False,False,N/A
+POST_0208,user_094,2025-10-03 03:09:09,Check out this recipe I tried today. It turned out delicious! #blessed #grateful,25,11,UNKNOWN,0.26,0,36,True,True,N/A
+POST_0139,user_095,2025-09-11 23:22:21,Just planted some vegetables in my garden. #blessed #grateful,27,76,un.org,0.6,0,103,False,False,N/A
+POST_0109,user_047,2025-09-13 19:51:46,Amazing day volunteering at the local shelter.,24,84,theguardian.com,0.83,0,108,False,False,N/A
+POST_0263,user_074,2025-09-09 07:38:51,BREAKING NEWS: CELEBRITY DIED! (ACTUALLY FAKE) SHARE NOW!,790,640,worldalert24.net,-0.77,1,1430,True,True,N/A
+POST_0285,user_123,2025-09-27 03:20:39,URGENT WARNING! SOMETHING TERRIBLE HAPPENING RIGHT NOW!,990,628,fakehealthtips.org,-0.22,1,1618,True,True,N/A
+POST_0300,user_114,2025-09-23 19:51:43,THIS NATURAL CURE DESTROYS CANCER! BIG PHARMA DOESN'T WANT YOU TO KNOW!,131,425,UNKNOWN,-0.71,1,556,True,True,N/A
+POST_0003,user_115,2025-09-26 23:38:02,Tried a new restaurant today and the food was incredible!,0,25,reuters.com,0.32,0,25,False,False,N/A
+POST_0114,user_059,2025-09-28 02:00:47,Finished my first marathon today! Feeling accomplished. #blessed #grateful,12,84,UNKNOWN,0.7,0,96,False,False,N/A
+POST_0133,user_136,2025-09-18 05:18:45,Great concert last night. The band was fantastic.,27,17,bbc.com,0.78,0,44,False,False,N/A
+POST_0292,user_085,2025-09-26 04:15:21,BANNED BY MAINSTREAM MEDIA! THE TRUTH THEY DON'T WANT YOU TO SEE!,916,614,conspiracy-truth.org,-0.45,1,1530,True,True,N/A
+POST_0160,user_085,2025-09-12 08:29:31,New blog post is up! Sharing my travel experiences from Japan.,18,37,bloomberg.com,0.87,0,55,False,False,N/A
+POST_0215,user_135,2025-09-29 14:25:56,So grateful for the support of my friends and family.,24,23,national-geographic.com,0.13,0,47,False,False,N/A
+POST_0123,user_139,2025-09-22 09:33:53,Supporting local businesses is always a good idea.,9,58,un.org,0.49,0,67,False,False,N/A
+POST_0185,user_076,2025-09-18 05:24:52,Congratulations to our team for winning the championship!,27,26,reuters.com,0.46,0,53,False,False,N/A
+POST_0194,user_147,2025-09-20 05:37:42,Just finished reading an amazing book! Highly recommend it.,8,83,bbc.com,0.35,0,91,False,False,N/A
+POST_0249,user_089,2025-10-09 11:28:31,Tried a new restaurant today and the food was incredible!,50,72,UNKNOWN,0.43,0,122,False,False,N/A
+POST_0156,user_130,2025-09-21 05:23:42,Congratulations to our team for winning the championship!,50,99,theguardian.com,0.83,0,149,False,False,N/A
+POST_0221,user_102,2025-10-05 02:35:58,Weekend hike was breathtaking. Can’t wait to go back!,9,42,UNKNOWN,0.86,0,51,False,False,N/A
+POST_0060,user_107,2025-09-09 21:39:33,Great concert last night. The band was fantastic.,24,79,nytimes.com,0.79,0,103,False,False,N/A
+POST_0079,user_135,2025-09-27 23:53:00,Proud of my little sister for graduating with honors!,12,42,UNKNOWN,0.24,0,54,False,False,N/A
+POST_0196,user_089,2025-09-13 08:26:44,Morning workout complete. Ready to start the day!,11,21,UNKNOWN,0.83,0,32,False,False,N/A
+POST_0014,user_088,2025-09-12 00:13:17,Tried a new restaurant today and the food was incredible! #blessed #grateful,29,5,time.com,0.68,0,34,False,False,N/A
+POST_0043,user_121,2025-09-15 21:39:05,Movie night with friends. Perfect way to end the week. #blessed #grateful,29,49,UNKNOWN,0.74,0,78,False,False,N/A
+POST_0096,user_141,2025-09-13 00:15:03,Beautiful sunset at the beach today. Nature is incredible.,44,67,UNKNOWN,0.88,0,111,False,False,N/A
+POST_0286,user_138,2025-09-28 11:44:12,ALIENS HAVE BEEN LIVING AMONG US SINCE 1947 — SCIENTISTS CONFIRM!,211,454,banned-truth.info,-0.78,0,665,True,True,N/A
+POST_0065,user_098,2025-09-17 04:03:00,Great concert last night. The band was fantastic. #blessed #grateful,5,65,UNKNOWN,0.53,0,70,False,False,N/A
+POST_0093,user_027,2025-10-05 20:07:33,Celebrating our anniversary today. Love you honey!,44,68,UNKNOWN,0.86,0,112,False,False,N/A
+POST_0212,user_101,2025-09-28 14:39:26,Watching the stars tonight — feeling peaceful and blessed.,37,48,UNKNOWN,0.51,0,85,False,False,N/A
+POST_0241,user_108,2025-09-20 03:15:02,Just finished a coding project I’ve been working on for weeks!,24,53,UNKNOWN,0.87,0,77,False,False,N/A
+POST_0259,user_126,2025-09-22 20:32:57,SCIENTISTS ADMIT THE EARTH IS ACTUALLY FLAT!,460,373,UNKNOWN,-0.52,0,833,True,True,N/A
+POST_0078,user_050,2025-09-18 18:33:41,Just adopted a cute puppy. Meet Max!,48,93,UNKNOWN,0.27,0,141,False,False,N/A
+POST_0177,user_093,2025-09-11 07:20:39,Weekend hike was breathtaking. Can’t wait to go back!,50,69,UNKNOWN,0.41,0,119,False,False,N/A
+POST_0052,user_022,2025-09-18 07:28:47,Supporting local businesses is always a good idea.,39,47,UNKNOWN,0.86,0,86,False,False,N/A
+POST_0186,user_091,2025-09-28 04:03:47,Supporting local businesses is always a good idea. #blessed #grateful,50,12,UNKNOWN,0.61,0,62,False,False,N/A
+POST_0200,user_008,2025-09-10 16:27:56,Beautiful sunset at the beach today. Nature is incredible. #blessed #grateful,36,38,who.int,0.56,0,74,False,False,N/A
+POST_0230,user_050,2025-09-14 10:40:47,Finished my first marathon today! Feeling accomplished.,25,59,UNKNOWN,0.17,0,84,False,False,N/A
+POST_0113,user_145,2025-10-06 12:35:54,Movie night with friends. Perfect way to end the week.,3,82,un.org,0.82,0,85,False,False,N/A
+POST_0041,user_061,2025-10-05 20:37:58,Supporting local businesses is always a good idea.,11,57,UNKNOWN,0.69,0,68,False,False,N/A
+POST_0032,user_081,2025-09-15 23:11:15,Family gathering this weekend was so much fun.,42,87,UNKNOWN,0.35,0,129,False,False,N/A
+POST_0005,user_097,2025-09-11 08:05:00,Morning workout complete. Ready to start the day!,40,84,reuters.com,0.56,0,124,False,False,N/A
+POST_0228,user_086,2025-09-18 05:27:41,Watching the stars tonight — feeling peaceful and blessed.,33,68,wikipedia.org,0.78,0,101,False,False,N/A
+POST_0219,user_124,2025-09-14 22:03:42,Learning to play the guitar — progress feels great!,19,33,scientificamerican.com,0.72,0,52,False,False,N/A
+POST_0026,user_139,2025-10-04 14:52:06,Beautiful sunset at the beach today. Nature is incredible.,48,35,UNKNOWN,0.49,0,83,False,False,N/A
+POST_0012,user_024,2025-10-02 16:41:14,Check out this recipe I tried today. It turned out delicious!,9,85,UNKNOWN,0.64,0,94,False,False,N/A
+POST_0013,user_098,2025-09-28 05:19:23,Watching the stars tonight — feeling peaceful and blessed.,35,6,bbc.com,0.65,0,41,False,False,N/A
+POST_0088,user_140,2025-09-16 10:56:05,Family gathering this weekend was so much fun.,17,23,UNKNOWN,0.23,0,40,False,False,N/A
+POST_0203,user_082,2025-10-02 02:11:15,Watching the stars tonight — feeling peaceful and blessed.,48,52,UNKNOWN,0.18,0,100,False,False,N/A
+POST_0145,user_125,2025-09-25 12:05:09,Happy birthday to my best friend! Hope you have a wonderful day.,14,55,nytimes.com,0.11,0,69,True,True,N/A
+POST_0297,user_037,2025-09-25 03:12:45,BANNED by mainstream media! The truth they don't want you to see!,241,788,conspiracy-truth.org,-0.56,1,1029,True,True,N/A
+POST_0243,user_077,2025-09-23 12:32:41,Just finished a coding project I’ve been working on for weeks!,27,73,UNKNOWN,0.28,0,100,False,False,N/A
+POST_0141,user_090,2025-09-08 20:41:16,Finished my first marathon today! Feeling accomplished. #blessed #grateful,36,89,UNKNOWN,0.21,0,125,False,False,N/A
+POST_0260,user_139,2025-09-28 16:19:09,BANNED BY MAINSTREAM MEDIA! THE TRUTH THEY DON'T WANT YOU TO SEE!,959,276,the-real-insider.net,-0.87,1,1235,True,True,N/A
+POST_0073,user_069,2025-09-18 22:40:06,Morning workout complete. Ready to start the day!,5,40,national-geographic.com,0.7,0,45,False,False,N/A
+POST_0252,user_024,2025-09-26 14:39:19,Morning workout complete. Ready to start the day! #blessed #grateful,3,39,UNKNOWN,0.58,0,42,False,False,N/A
+POST_0295,user_081,2025-09-28 03:25:32,NASA ADMITS THE MOON LANDING WAS FAKED ALL ALONG!,701,316,deepstateupdate.info,-0.58,0,1017,True,True,N/A
+POST_0284,user_036,2025-09-29 00:01:23,THIS NATURAL CURE DESTROYS CANCER! BIG PHARMA DOESN'T WANT YOU TO KNOW!,774,357,fakehealthtips.org,-0.64,1,1131,True,True,N/A
+POST_0055,user_028,2025-10-03 04:00:18,Just finished reading an amazing book! Highly recommend it. #blessed #grateful,44,71,UNKNOWN,0.55,0,115,False,False,N/A
+POST_0110,user_066,2025-09-22 23:28:07,Check out this recipe I tried today. It turned out delicious!,29,41,wikipedia.org,0.16,0,70,False,False,N/A
+POST_0056,user_119,2025-09-30 07:21:45,Happy birthday to my best friend! Hope you have a wonderful day.,20,61,nasa.gov,0.81,0,81,False,False,N/A
+POST_0102,user_062,2025-09-27 03:01:01,Great concert last night. The band was fantastic. #blessed #grateful,49,57,UNKNOWN,0.7,0,106,False,False,N/A
+POST_0256,user_128,2025-09-22 18:37:53,BREAKING NEWS: Celebrity died! (actually fake) Share now!,580,527,banned-truth.info,-0.68,1,1107,False,True,N/A
+POST_0287,user_103,2025-10-09 01:36:34,Hidden message found in the new company logo — proof of global control!,208,210,UNKNOWN,-0.74,1,418,True,True,N/A
+POST_0092,user_114,2025-10-07 22:57:44,Proud of my little sister for graduating with honors!,27,86,bbc.com,0.48,0,113,False,False,N/A
+POST_0275,user_027,2025-09-12 16:57:34,MIRACLE WEIGHT LOSS SECRET BANNED IN 5 COUNTRIES!,559,770,secret-revelations.org,-0.83,3,1329,True,True,N/A
+POST_0171,user_090,2025-10-07 15:12:10,Just adopted a cute puppy. Meet Max! #blessed #grateful,25,69,UNKNOWN,0.41,0,94,False,False,N/A
+POST_0214,user_007,2025-09-28 06:02:48,Supporting local businesses is always a good idea. #blessed #grateful,50,79,UNKNOWN,0.68,0,129,False,False,N/A
+POST_0118,user_037,2025-10-02 22:41:50,Morning workout complete. Ready to start the day! #blessed #grateful,46,91,un.org,0.74,0,137,False,False,N/A
+POST_0198,user_021,2025-09-16 21:26:42,Amazing day volunteering at the local shelter. #blessed #grateful,17,21,forbes.com,0.53,0,38,False,False,N/A
+POST_0211,user_086,2025-10-04 06:19:36,Beautiful sunset at the beach today. Nature is incredible.,9,82,wikipedia.org,0.36,0,91,False,False,N/A
+POST_0288,user_149,2025-10-01 09:00:35,SCIENTISTS ADMIT THE EARTH IS ACTUALLY FLAT!,483,600,the-real-insider.net,-0.49,0,1083,True,True,N/A
+POST_0199,user_149,2025-09-12 20:28:46,Amazing day volunteering at the local shelter.,46,82,UNKNOWN,0.84,0,128,False,False,N/A
+POST_0001,user_071,2025-09-15 21:54:54,New blog post is up! Sharing my travel experiences from Japan.,6,91,cnn.com,0.17,0,97,False,False,N/A
+POST_0257,user_057,2025-10-01 18:47:23,SHOCKING TRUTH ABOUT VACCINES THAT DOCTORS DON'T WANT YOU TO KNOW!,666,798,secret-revelations.org,-0.69,1,1464,True,True,N/A
+POST_0084,user_116,2025-10-08 05:06:02,Just finished a coding project I’ve been working on for weeks!,37,59,UNKNOWN,0.6,0,96,False,False,N/A
+POST_0125,user_092,2025-09-10 03:03:19,Weekend hike was breathtaking. Can’t wait to go back!,7,63,UNKNOWN,0.27,0,70,False,False,N/A
+POST_0117,user_070,2025-10-04 20:03:05,Just planted some vegetables in my garden.,30,42,reuters.com,0.74,0,72,False,False,N/A
+POST_0095,user_119,2025-09-21 15:58:40,Weekend hike was breathtaking. Can’t wait to go back! #blessed #grateful,23,84,bloomberg.com,0.45,0,107,False,False,N/A
+POST_0178,user_100,2025-09-19 23:33:08,Proud of my little sister for graduating with honors!,22,13,UNKNOWN,0.69,0,35,False,False,N/A
+POST_0266,user_098,2025-09-21 08:16:10,SHOCKING truth about vaccines that doctors don't want you to know!,752,209,clickbait-central.com,-0.55,1,961,True,True,N/A
+POST_0192,user_082,2025-09-30 02:31:11,Congratulations to our team for winning the championship! #blessed #grateful,35,74,UNKNOWN,0.34,0,109,False,False,N/A
+POST_0253,user_049,2025-10-04 09:32:49,Beautiful sunset at the beach today. Nature is incredible. #blessed #grateful,35,32,UNKNOWN,0.8,0,67,False,False,N/A
+POST_0104,user_085,2025-10-05 18:42:01,Amazing day volunteering at the local shelter. #blessed #grateful,28,17,UNKNOWN,0.47,0,45,False,False,N/A
+POST_0024,user_104,2025-10-02 01:38:02,New blog post is up! Sharing my travel experiences from Japan.,6,36,UNKNOWN,0.53,0,42,False,False,N/A
+POST_0197,user_133,2025-09-12 23:56:17,Beautiful sunset at the beach today. Nature is incredible. #blessed #grateful,20,95,UNKNOWN,0.86,0,115,False,False,N/A
+POST_0204,user_069,2025-09-22 21:55:13,Just adopted a cute puppy. Meet Max!,3,42,un.org,0.59,0,45,False,False,N/A
+POST_0163,user_135,2025-09-11 11:28:34,Supporting local businesses is always a good idea. #blessed #grateful,32,51,UNKNOWN,0.35,0,83,False,False,N/A
+POST_0020,user_133,2025-09-22 18:01:21,New blog post is up! Sharing my travel experiences from Japan.,4,48,UNKNOWN,0.54,0,52,False,False,N/A
+POST_0116,user_034,2025-09-11 00:06:54,So grateful for the support of my friends and family.,26,27,UNKNOWN,0.73,0,53,False,False,N/A
+POST_0097,user_041,2025-09-18 07:46:42,Watching the stars tonight — feeling peaceful and blessed. #blessed #grateful,26,16,UNKNOWN,0.77,0,42,False,False,N/A
+POST_0107,user_074,2025-09-16 13:51:34,Just adopted a cute puppy. Meet Max!,6,86,bbc.com,0.45,0,92,False,False,N/A
+POST_0161,user_086,2025-09-11 09:28:16,Watching the stars tonight — feeling peaceful and blessed. #blessed #grateful,22,44,nasa.gov,0.63,0,66,False,False,N/A
+POST_0069,user_051,2025-09-11 09:31:00,Movie night with friends. Perfect way to end the week.,40,36,UNKNOWN,0.72,0,76,False,False,N/A
+POST_0162,user_022,2025-09-18 08:10:48,Check out this recipe I tried today. It turned out delicious!,50,47,bloomberg.com,0.66,0,97,False,False,N/A
+POST_0299,user_125,2025-09-12 21:38:31,MIRACLE WEIGHT LOSS SECRET BANNED IN 5 COUNTRIES!,675,717,secret-revelations.org,-0.42,3,1392,True,True,N/A
+POST_0037,user_014,2025-09-11 11:14:00,Loving the new coffee shop downtown. Great atmosphere. #blessed #grateful,17,10,UNKNOWN,0.72,0,27,False,False,N/A
+POST_0126,user_006,2025-09-10 01:01:15,New blog post is up! Sharing my travel experiences from Japan.,50,77,UNKNOWN,0.76,0,127,False,False,N/A
+POST_0101,user_039,2025-09-23 08:16:29,Weekend hike was breathtaking. Can’t wait to go back!,21,75,nature.com,0.46,0,96,False,False,N/A
+POST_0251,user_107,2025-09-26 06:54:31,Beautiful sunset at the beach today. Nature is incredible.,15,37,UNKNOWN,0.62,0,52,False,False,N/A
+POST_0216,user_005,2025-09-23 01:12:16,Learning to play the guitar — progress feels great!,26,93,UNKNOWN,0.5,0,119,False,False,N/A
+POST_0195,user_135,2025-09-22 04:38:43,Learning to play the guitar — progress feels great! #blessed #grateful,4,21,bloomberg.com,0.16,0,25,False,False,N/A
+POST_0234,user_057,2025-09-15 19:16:16,Finished my first marathon today! Feeling accomplished.,29,100,reuters.com,0.43,0,129,False,False,N/A
+POST_0213,user_077,2025-09-23 15:09:28,Proud of my little sister for graduating with honors! #blessed #grateful,43,19,forbes.com,0.35,0,62,False,False,N/A
+POST_0083,user_022,2025-09-15 18:21:55,So grateful for the support of my friends and family. #blessed #grateful,26,82,UNKNOWN,0.59,0,108,False,False,N/A
+POST_0183,user_103,2025-10-02 05:43:31,Just planted some vegetables in my garden.,21,28,UNKNOWN,0.5,0,49,False,False,N/A
+POST_0038,user_042,2025-10-02 05:21:52,New blog post is up! Sharing my travel experiences from Japan. #blessed #grateful,27,76,UNKNOWN,0.16,0,103,True,True,N/A
+POST_0064,user_035,2025-10-06 04:57:10,Congratulations to our team for winning the championship!,16,53,UNKNOWN,0.46,0,69,False,False,N/A
+POST_0034,user_063,2025-09-19 23:56:35,Just planted some vegetables in my garden. #blessed #grateful,34,95,UNKNOWN,0.89,0,129,False,False,N/A
+POST_0240,user_017,2025-09-25 16:46:04,Celebrating our anniversary today. Love you honey!,4,65,UNKNOWN,0.43,0,69,False,False,N/A
+POST_0293,user_051,2025-09-23 09:13:31,This natural cure DESTROYS cancer! Big pharma doesn't want you to know!,104,419,UNKNOWN,-0.37,1,523,True,True,N/A
+POST_0033,user_003,2025-09-23 10:22:13,Just finished a coding project I’ve been working on for weeks! #blessed #grateful,4,73,UNKNOWN,0.31,0,77,False,False,N/A
+POST_0168,user_119,2025-10-03 00:35:31,So grateful for the support of my friends and family. #blessed #grateful,32,72,UNKNOWN,0.23,0,104,False,False,N/A
+POST_0222,user_114,2025-09-28 23:33:37,Congratulations to our team for winning the championship!,13,30,scientificamerican.com,0.85,0,43,False,False,N/A
+POST_0071,user_004,2025-10-06 04:38:38,Amazing day volunteering at the local shelter.,6,60,bloomberg.com,0.81,0,66,False,False,N/A
+POST_0016,user_139,2025-10-09 07:44:07,Just planted some vegetables in my garden. #blessed #grateful,38,46,UNKNOWN,0.19,0,84,False,False,N/A
+POST_0236,user_136,2025-10-01 01:51:05,Congratulations to our team for winning the championship!,36,19,UNKNOWN,0.54,0,55,False,False,N/A
+POST_0264,user_062,2025-09-15 10:19:23,URGENT! THIS MIRACLE REMEDY WILL CHANGE YOUR LIFE FOREVER!,934,562,UNKNOWN,-0.62,2,1496,True,True,N/A
+POST_0202,user_117,2025-09-11 12:49:17,Weekend hike was breathtaking. Can’t wait to go back!,28,58,UNKNOWN,0.26,0,86,False,False,N/A
+POST_0193,user_045,2025-10-04 02:18:21,Excited to announce my new job at ABC Company! #blessed #grateful,7,30,national-geographic.com,0.73,0,37,False,False,N/A
+POST_0247,user_148,2025-09-19 09:24:56,Just adopted a cute puppy. Meet Max! #blessed #grateful,43,46,UNKNOWN,0.8,0,89,False,False,N/A
+POST_0035,user_142,2025-09-18 11:53:03,New blog post is up! Sharing my travel experiences from Japan.,8,38,UNKNOWN,0.19,0,46,False,False,N/A
+POST_0025,user_072,2025-09-22 22:42:06,Check out this recipe I tried today. It turned out delicious!,4,61,un.org,0.54,0,65,False,False,N/A
+POST_0209,user_099,2025-09-25 05:34:42,Tried a new restaurant today and the food was incredible!,17,84,bbc.com,0.2,0,101,False,False,N/A
+POST_0174,user_136,2025-09-21 18:35:25,Check out this recipe I tried today. It turned out delicious!,15,43,UNKNOWN,0.29,0,58,False,False,N/A
+POST_0277,user_144,2025-10-06 22:22:40,Cure for diabetes found but kept secret for profit!,273,589,UNKNOWN,-0.71,2,862,True,True,N/A
+POST_0132,user_021,2025-09-19 09:55:11,Morning workout complete. Ready to start the day!,8,40,forbes.com,0.54,0,48,False,False,N/A
+POST_0268,user_012,2025-10-07 17:30:06,World leaders secretly meeting to control the weather!,387,756,fakenews-source.net,-0.77,1,1143,True,True,N/A
+POST_0244,user_071,2025-09-15 14:34:14,Morning workout complete. Ready to start the day!,2,89,UNKNOWN,0.71,0,91,False,False,N/A
+POST_0137,user_032,2025-09-22 02:41:49,Tried a new restaurant today and the food was incredible!,48,59,nasa.gov,0.14,0,107,False,False,N/A
+POST_0149,user_084,2025-09-14 10:16:00,Movie night with friends. Perfect way to end the week.,44,51,UNKNOWN,0.78,0,95,False,False,N/A
+POST_0150,user_103,2025-09-24 17:12:02,Just adopted a cute puppy. Meet Max!,19,100,UNKNOWN,0.37,0,119,False,False,N/A
+POST_0166,user_043,2025-10-02 04:48:33,Excited to announce my new job at ABC Company!,23,91,theguardian.com,0.59,0,114,False,False,N/A
+POST_0298,user_045,2025-09-25 20:17:25,DRINKING LEMON WATER CAN INSTANTLY CURE COVID-19!,243,391,viral-hoax.net,-0.47,1,634,True,True,N/A
+POST_0144,user_109,2025-09-24 10:14:33,Loving the new coffee shop downtown. Great atmosphere.,17,32,bbc.com,0.38,0,49,False,False,N/A
+POST_0269,user_054,2025-09-26 19:34:59,Government conspiracy REVEALED! Wake up people!,829,607,shocking-news-daily.com,-0.79,4,1436,True,True,N/A
+POST_0031,user_011,2025-09-27 17:12:49,Just adopted a cute puppy. Meet Max!,37,77,UNKNOWN,0.85,0,114,False,False,N/A
+POST_0265,user_118,2025-09-26 22:30:21,MIRACLE WEIGHT LOSS SECRET BANNED IN 5 COUNTRIES!,407,282,deepstateupdate.info,-0.45,3,689,True,True,N/A
+POST_0106,user_137,2025-09-21 01:26:52,Great concert last night. The band was fantastic. #blessed #grateful,48,67,nytimes.com,0.59,0,115,False,False,N/A
+POST_0072,user_112,2025-09-14 14:19:48,Morning workout complete. Ready to start the day! #blessed #grateful,17,83,cnn.com,0.72,0,100,False,False,N/A
+POST_0085,user_026,2025-10-08 21:26:20,Watching the stars tonight — feeling peaceful and blessed. #blessed #grateful,16,89,UNKNOWN,0.29,0,105,False,False,N/A
+POST_0220,user_126,2025-09-19 06:08:42,Learning to play the guitar — progress feels great!,50,97,UNKNOWN,0.2,0,147,False,False,N/A
+POST_0180,user_123,2025-09-28 20:37:15,Just finished a coding project I’ve been working on for weeks!,4,96,theguardian.com,0.13,0,100,False,False,N/A
+POST_0108,user_008,2025-09-10 01:36:10,Learning to play the guitar — progress feels great!,18,50,UNKNOWN,0.22,0,68,False,False,N/A
+POST_0122,user_127,2025-09-11 18:02:03,Beautiful sunset at the beach today. Nature is incredible.,34,22,UNKNOWN,0.4,0,56,False,False,N/A
+POST_0061,user_123,2025-09-09 02:05:55,Just finished a coding project I’ve been working on for weeks!,24,58,UNKNOWN,0.69,0,82,False,False,N/A
+POST_0225,user_122,2025-09-24 10:58:55,Excited to announce my new job at ABC Company!,18,46,UNKNOWN,0.15,0,64,False,False,N/A
+POST_0045,user_138,2025-09-18 14:54:03,Weekend hike was breathtaking. Can’t wait to go back! #blessed #grateful,16,27,UNKNOWN,0.89,0,43,False,False,N/A
+POST_0179,user_149,2025-10-02 00:54:09,New blog post is up! Sharing my travel experiences from Japan.,22,74,UNKNOWN,0.61,0,96,False,False,N/A
+POST_0135,user_081,2025-09-22 01:28:23,Celebrating our anniversary today. Love you honey! #blessed #grateful,23,24,theguardian.com,0.15,0,47,False,False,N/A
+POST_0231,user_036,2025-09-24 01:45:22,Weekend hike was breathtaking. Can’t wait to go back!,0,38,UNKNOWN,0.46,0,38,False,False,N/A
+POST_0017,user_079,2025-09-15 16:02:03,Just planted some vegetables in my garden. #blessed #grateful,36,15,UNKNOWN,0.49,0,51,False,False,N/A
+POST_0153,user_127,2025-09-23 09:34:44,Congratulations to our team for winning the championship!,28,92,forbes.com,0.61,0,120,False,False,N/A
+POST_0127,user_056,2025-10-04 22:07:56,Tried a new restaurant today and the food was incredible!,9,81,UNKNOWN,0.79,0,90,False,False,N/A
+POST_0053,user_058,2025-10-03 20:55:08,Just adopted a cute puppy. Meet Max!,2,36,forbes.com,0.78,0,38,False,False,N/A
+POST_0218,user_118,2025-10-08 08:07:41,Great concert last night. The band was fantastic. #blessed #grateful,22,91,nasa.gov,0.64,0,113,False,False,N/A
+POST_0112,user_098,2025-09-27 02:22:25,Proud of my little sister for graduating with honors!,44,42,UNKNOWN,0.76,0,86,False,False,N/A
+POST_0280,user_085,2025-09-23 01:13:59,Hidden message found in the new company logo — proof of global control!,943,339,hiddenfactsworld.com,-0.24,1,1282,True,True,N/A
+POST_0226,user_147,2025-09-16 08:33:53,Just finished a coding project I’ve been working on for weeks!,2,27,UNKNOWN,0.77,0,29,False,False,N/A
+POST_0022,user_055,2025-09-25 19:33:06,Loving the new coffee shop downtown. Great atmosphere.,36,78,UNKNOWN,0.73,0,114,False,False,N/A
+POST_0278,user_017,2025-09-14 04:03:33,BREAKING NEWS: Celebrity died! (actually fake) Share now!,406,695,banned-truth.info,-0.72,1,1101,False,True,N/A
+POST_0188,user_094,2025-09-20 03:22:09,Just adopted a cute puppy. Meet Max! #blessed #grateful,38,24,reuters.com,0.4,0,62,False,False,N/A
+POST_0279,user_127,2025-09-28 09:58:36,THIS ONE WEIRD TRICK WILL SOLVE ALL YOUR PROBLEMS INSTANTLY!,209,338,secret-revelations.org,-0.67,0,547,True,True,N/A
+POST_0138,user_091,2025-09-12 09:18:20,Finished my first marathon today! Feeling accomplished.,9,89,UNKNOWN,0.78,0,98,False,False,N/A
+POST_0059,user_021,2025-09-12 19:00:31,Great concert last night. The band was fantastic. #blessed #grateful,44,24,bbc.com,0.43,0,68,False,False,N/A
+POST_0058,user_134,2025-09-24 11:01:24,New blog post is up! Sharing my travel experiences from Japan.,28,14,national-geographic.com,0.32,0,42,False,False,N/A
+POST_0262,user_124,2025-09-30 05:47:07,THE GOVERNMENT IS REPLACING BIRDS WITH SURVEILLANCE DRONES!,644,764,fakenews-source.net,-0.53,1,1408,True,True,N/A
+POST_0282,user_101,2025-09-19 18:45:43,SHOCKING evidence of alien cover-up! Must see!,304,758,UNKNOWN,-0.36,2,1062,True,True,N/A
+POST_0254,user_004,2025-09-14 21:33:14,Great concert last night. The band was fantastic.,47,66,nasa.gov,0.58,0,113,False,False,N/A
+POST_0290,user_053,2025-09-25 06:08:37,Doctors HATE this simple method! Click to learn more!,199,648,viral-hoax.net,-0.68,1,847,False,False,N/A
+POST_0235,user_138,2025-10-04 12:38:20,Tried a new restaurant today and the food was incredible! #blessed #grateful,48,36,forbes.com,0.8,0,84,False,False,N/A
+POST_0087,user_117,2025-09-11 12:01:06,Finished my first marathon today! Feeling accomplished. #blessed #grateful,16,85,UNKNOWN,0.74,0,101,False,False,N/A
+POST_0148,user_020,2025-10-06 01:22:34,Celebrating our anniversary today. Love you honey!,36,56,nature.com,0.33,0,92,False,False,N/A
+POST_0276,user_024,2025-09-28 10:36:27,You won't believe what celebrities are secretly doing! Click now!,984,594,UNKNOWN,-0.61,2,1578,True,True,N/A
